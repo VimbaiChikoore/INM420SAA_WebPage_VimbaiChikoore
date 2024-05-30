@@ -1,0 +1,5 @@
+
+
+/* Breakpoint for big screen*/
+/* 768 is breakpoint bc we are using md for most bootstrap breakpoint */
+@media only screen and (min-width: 768px) {}
