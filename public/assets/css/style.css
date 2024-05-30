@@ -1,5 +1,73 @@
+/* General styles */
+p{
+    font-family:"Inter", sans-serif;   
+}
+.btn{
+    font-family:"Inter", sans-serif;
+}
 
+/* Header Menu */
+.nav-link{
+    font-family:"Inter", sans-serif;
+    font-weight: 400;
+    color: #6C5CE7;
+}
+
+.active{
+    color:#2D3436;
+    font-weight: 500;
+}
+
+.navbar{
+    filter: drop-shadow(rgba(150, 149, 149, 0.464) 1px 1px 10px)
+}
+
+.navbar-brand{
+    font-weight: 700;
+    font-family:"Inter", sans-serif;
+    color:#2D3436;
+}
+
+.navButton{
+    font-family:"Inter", sans-serif;
+    font-weight: 400; 
+    border-radius: 20px;
+    padding:10px 30px 10px 30px;
+}
+
+/* Delivering Good Designs */
+h3{
+    font-family:"Inter", sans-serif;
+    font-weight: 800; 
+}
+
+.desc{
+    font-family:"Inter", sans-serif;
+    font-weight: 400;
+}
+
+.brandIcons{
+    width: 56px;
+}
+
+h4{
+    font-family:"Inter", sans-serif;
+    font-weight: 800;   
+}
+
+.prodDesc{
+    font-size: 14px;
+    line-height: 32px;
+}
+
+.prodBtn{
+    font-weight:700;
+    border: 1px solid #ADADAD;
+    font-size:14px
+}
 
 /* Breakpoint for big screen*/
 /* 768 is breakpoint bc we are using md for most bootstrap breakpoint */
-@media only screen and (min-width: 768px) {}
+@media only screen and (min-width: 768px) {
+
+}
