@@ -49,6 +49,17 @@ a:link{
 }
 
 /* Hero Grid */
+
+h1{
+    font-size: 4rem;
+    font-weight: 900;
+}
+
+h2{
+    font-size: 3rem;
+    font-weight: 900;
+}
+
 .grid-container{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 0.5fr 0.5fr;
@@ -200,7 +211,6 @@ form{
 }
 
 .fixBottom{
-  position: fixed;
   bottom: 0;
   width: 100%;
 }
